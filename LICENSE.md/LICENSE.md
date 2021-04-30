@@ -1,3 +1,0 @@
-Squash
-Saga 
-Timmy
